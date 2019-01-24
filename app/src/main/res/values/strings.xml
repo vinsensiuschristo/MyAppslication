@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="dariProvinsi">
+        <item>JawaBarat</item>
+        <item>NTT</item>
+        <item>JAKARTA</item>
+    </string-array>
+
+    <string-array name="jawaBarat">
+        <item>JAWA1</item>
+        <item>JAWA2</item>
+        <item>JAWA3</item>
+    </string-array>
+    <string-array name="ntt">
+        <item>NTET1</item>
+        <item>NTET12</item>
+        <item>NTET123</item>
+    </string-array>
+    <string-array name="jakarta">
+        <item>ASAS1</item>
+        <item>ASAS12</item>
+        <item>ASAS123</item>
+    </string-array>
+
+
+    <!--<string-array name="keProvinsi">-->
+        <!--<item>KEJawaBarat</item>-->
+        <!--<item>KENTT</item>-->
+        <!--<item>KEJAKARTA</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="keJawaBarat">-->
+        <!--<item>JAWA1</item>-->
+        <!--<item>JAWA2</item>-->
+        <!--<item>JAWA3</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="keNtt">-->
+        <!--<item>NTET1</item>-->
+        <!--<item>NTET12</item>-->
+        <!--<item>NTET123</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="keJakarta">-->
+        <!--<item>ASAS1</item>-->
+        <!--<item>ASAS12</item>-->
+        <!--<item>ASAS123</item>-->
+    <!--</string-array>-->
+</resources>
